@@ -7,7 +7,7 @@ with open("mylife.txt", "w") as my_life_line:
 line_2_decision = input("Are there more lines? y/n: ")
 if line_2_decision == "y":
     # Enter line 2
-    input("What is your Second line? : ")
+    secondline_line = input("What is your Second line? : ")
     # let user choose to write more lines
     # Enter line 3
     # enter all line to mylife.txt
