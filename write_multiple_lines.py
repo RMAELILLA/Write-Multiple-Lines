@@ -12,4 +12,4 @@ if line_2_decision == "y":
     # Enter line 3
     # enter all line to mylife.txt
 with open("mylife.txt", "w") as my_life_line:
-    my_life_line.write(starting_line, secondline_line + "\n")
+    my_life_line.write(starting_line + "\n" + secondline_line + "\n")
