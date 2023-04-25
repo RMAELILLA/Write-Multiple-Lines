@@ -1,2 +1,3 @@
-a
-a
+Beautiful is better than ugly.
+Explicit is better than Implicit
+Simple is better than complex.
