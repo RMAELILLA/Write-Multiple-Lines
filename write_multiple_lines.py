@@ -10,7 +10,7 @@ if line_2_decision == "y":
     line_3_decision = input("Are there more lines? y/n: ")
     if line_3_decision == "y":
         # Enter line 3
-        input("What is your Third line? :")
+        third_line = input("What is your Third line? :")
 # enter all line to mylife.txt
 with open("mylife.txt", "w") as my_life_line:
     my_life_line.write(starting_line + "\n" + second_line + "\n")
