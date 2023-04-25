@@ -4,6 +4,7 @@ starting_line = input("Good Day! input your this program will let you input line
 with open("mylife.txt", "w") as my_life_line:
     my_life_line.write(starting_line)
 # let user choose to write more lines
+input("Are there more lines? y/n: ")
 # Enter line 2
 # let user choose to write more lines
 # Enter line 3
