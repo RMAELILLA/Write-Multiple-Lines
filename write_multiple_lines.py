@@ -17,6 +17,7 @@ if line_3_decision == "y":
 else:
     third_line = input(("Please continue, what is your third line? : "))
 
+# for closing statement
 closing_statement = input("Are there more lines? y/n: ")
 if closing_statement == "y":
     print("Sorry this code is for 3 lines only, thank you for your participation.")
