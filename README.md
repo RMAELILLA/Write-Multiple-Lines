@@ -1,4 +1,4 @@
-# Write-Multiple-Lines
+# Write Multiple Lines
 Allows user to input and write the input in text file.
 
 # ❓ How to run this program:
