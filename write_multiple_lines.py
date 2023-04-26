@@ -1,5 +1,5 @@
 # Let user input line
-starting_line = input("Good Day! input your this program will let you input lines. Please input your first line: ")
+starting_line = input("Good Day! This program will let you input lines. Please input your first line: ")
 # Enter line 1 to mylife.txt
 # let user choose to write more lines
 line_2_decision = input("Are there more lines? y/n: ")
